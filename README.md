@@ -29,9 +29,11 @@ GPS Device or Mobile App is capable of sending current location and speed of veh
 <h3>Class Diagram:</h3>
 
 
+
 ![image](https://user-images.githubusercontent.com/35165237/34674401-c44b3874-f4ab-11e7-8da8-e666ad7df411.png)
-
-
+<br>
+This Image Also Available in project
+<br>
 <h3>Rest API's :</h3>
 <ol>
 <li>URL: /track/asset <br>
