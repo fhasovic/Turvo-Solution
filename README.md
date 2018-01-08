@@ -1,6 +1,6 @@
 
 
-<h1>Location Tracking </h1>
+<h1>Location Tracking System</h1>
 
 <h3>Problem: </h3>A simple location tracker application that would receive data from IOT devices or mobile on location of a given vehicle.
 
