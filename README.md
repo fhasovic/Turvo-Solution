@@ -8,6 +8,7 @@
 
 Java - 1.8 <br>
 Spring Boot - 1.4.7 <br>
+Hibernate - 5.0.12 <br>
 My Sql - 5.1.4 <br>
 
 
