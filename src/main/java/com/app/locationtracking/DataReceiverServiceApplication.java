@@ -8,5 +8,6 @@ public class DataReceiverServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DataReceiverServiceApplication.class, args);
+		System.out.println("Application Started...");
 	}
 }
